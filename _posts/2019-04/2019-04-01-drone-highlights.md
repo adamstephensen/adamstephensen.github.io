@@ -22,7 +22,7 @@ Rather than just deliver it once I thought I'd capture some thoughts here.
 
 Maintenance of electrical grids is not only time consuming and costly, but it can also be very dangerous. By developing a connected drone that uses AI and cognitive services from Microsoft Azure, utility companies can reduce blackouts and inspect power lines more safely. 
 
-{% youtube Jzj1e7CutnU %}
+<< youtube Jzj1e7CutnU %}
 
 ## Microsoft FarmBeats -Uses drones, AI and IOT Edge to increase farm productivity
 
@@ -32,7 +32,7 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 > Since 2011, farmer Sean Stratman has grown kale, cauliflower, broccoli and squash in Carnation, Washington. Then, a few years ago, he added a new crop to his bounty: knowledge, using drones and the intelligent edge to get near-real-time information about issues like soil moisture and pests. It’s the kind of information that is not only helping him, but could benefit farmers around the world.
 > Source: [](https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/) 
 
-{% youtube KTvdjcU0lf8 %}
+<< youtube KTvdjcU0lf8 %}
 
 Links: 
 [More reading on FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
@@ -48,7 +48,7 @@ It does this by
 - Collecting mosquitos with robots
 - Detecting pathogens by gene sequencing
 
-{% youtube kSUpk5CJmkw %}
+<< youtube kSUpk5CJmkw %}
 
 [Full Article available here](https://www.microsoft.com/en-us/research/project/project-premonition/)
 [More Info here](https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/)

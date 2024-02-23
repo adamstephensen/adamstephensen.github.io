@@ -12,4 +12,4 @@ comments: true
 
 Check it out on <a href="http://tv.ssw.com/3061/asp-net-mvc-and-angular-js">SSW TV</a>
 
-{% youtube D8vc-cTzvCk %}
+<< youtube D8vc-cTzvCk %}

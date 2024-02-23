@@ -15,4 +15,4 @@ The teams have been thrown in the deep end, but they are loving it.
 
 They are really getting into learning MVC and Scrum. They especially loved having Andrew Coates from Microsoft as a guest mentor to introduce them to Windows Azure, TFS and Continuous Deployment.
 
-{% youtube R7dvT-6nKe4 %}
+<< youtube R7dvT-6nKe4 %}

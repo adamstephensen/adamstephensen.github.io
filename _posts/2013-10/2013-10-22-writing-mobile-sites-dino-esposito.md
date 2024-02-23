@@ -17,4 +17,4 @@ Responsive Web Design (RWD) delivers multi-device views without extra costs, but
 
 This video session with Dino looks at a few real examples where RWD is not enough and server-side detection is necessary.
 
-{% youtube IUE6Ut0GXi4 %}
+<< youtube IUE6Ut0GXi4 %}

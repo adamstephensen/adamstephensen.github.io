@@ -17,4 +17,4 @@ I had a great chat with John Papa about building Single Page Applications to get
 <div>Check it out on <a href="http://tv.ssw.com/3168/john-papa-spa">SSW TV</a></div>
 <div></div>
 
-{% youtube pNDDf-yh2bE %}
+<< youtube pNDDf-yh2bE %}

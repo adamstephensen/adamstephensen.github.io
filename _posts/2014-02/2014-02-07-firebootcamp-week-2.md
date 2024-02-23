@@ -13,4 +13,4 @@ Sprint 1 was great, but now the guys are really getting going.
 
 Check out their progress in Sprint 2.
 
-{% youtube tXnvoy49Clg %}
+<< youtube tXnvoy49Clg %}
