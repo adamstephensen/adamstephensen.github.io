@@ -1,1 +1,0 @@
-# adamstephensen.github.io
