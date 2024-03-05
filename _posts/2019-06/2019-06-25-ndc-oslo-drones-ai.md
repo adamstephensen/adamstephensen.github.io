@@ -18,5 +18,6 @@ Drones and AI are changing our world.
 
 In this session we will look at some of the real world solutions utilising these emerging technologies: you will get an understanding of the core use cases, learn how to get started with the tech, and find out about the pitfalls to avoid when building solutions with drones and Artificial Intelligence.
 
-<< youtube omHp3NxKcVs %}
+<!-- << youtube omHp3NxKcVs %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omHp3NxKcVs" ></iframe>
 

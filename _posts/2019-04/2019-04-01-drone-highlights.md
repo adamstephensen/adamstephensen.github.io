@@ -36,7 +36,6 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 <!-- youtube KTvdjcU0lf8 % -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KTvdjcU0lf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 Links: 
 [More reading on FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
 

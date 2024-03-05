@@ -19,4 +19,6 @@ In this video, we discuss:
  - What’s new in Windows Phone 8
  - How to get your app noticed on the Marketplace
 
-<< youtube EKJmZYZXrYQ %}
+
+<!-- << youtube EKJmZYZXrYQ %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKJmZYZXrYQ" ></iframe>

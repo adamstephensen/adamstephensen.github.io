@@ -12,4 +12,5 @@ comments: true
 
 Check it out on <a href="http://tv.ssw.com/3061/asp-net-mvc-and-angular-js">SSW TV</a>
 
-<< youtube D8vc-cTzvCk %}
+<!-- << youtube D8vc-cTzvCk %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D8vc-cTzvCk" ></iframe>

@@ -20,6 +20,7 @@ In this session, we will explore how the Microsoft Bot Framework makes it easy t
 
 If you missed the mobile revolution - why not lead in the bot wars?
 
-<< youtube jdssa77dA5s %}
+<!-- << youtube jdssa77dA5s %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdssa77dA5s" ></iframe>
 
 

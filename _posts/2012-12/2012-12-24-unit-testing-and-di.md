@@ -14,4 +14,5 @@ Unit testing and Dependency Injection are good for you, yet these essential ingr
 In this session I look at why many projects still don’t include unit tests, and provide some recipes for healthy projects that every coder should have in their recipe book
 
 
-<< youtube kO8xmfahS5Y %}
+<!-- << youtube kO8xmfahS5Y %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kO8xmfahS5Y" ></iframe>

@@ -13,7 +13,9 @@ comments: true
 Continuously deploying from GitHub to Azure should be easy. In this video I discuss 2 issues I found when deploying an API using ASP.Net 5
 
 
-<< youtube i06hhOZQkVE %}
+<!-- << youtube i06hhOZQkVE %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i06hhOZQkVE" ></iframe>
+
 <h3>tl;dw</h3>
 Here is what I was trying to do:
 <ul>

@@ -13,5 +13,6 @@ FireBootCamp has been an amazing experience.
 
 After 9 weeks of intense training, the FireBootCampers present the solutions that they built during the course, celebrate their successes with a glass of Champagne and mingle with potential employers.
 
-<< youtube -NQBJJg0RPA %}
+<!-- << youtube -NQBJJg0RPA %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NQBJJg0RPA" ></iframe>
 

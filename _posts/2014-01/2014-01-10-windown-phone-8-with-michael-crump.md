@@ -12,5 +12,6 @@ comments: true
 In this video I chat to Michael Crump about his experiences developing for Windows Phone 8.
 
 
-<< youtube Daq_L5s_suw %}
+<!-- << youtube Daq_L5s_suw %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Daq_L5s_suw" ></iframe>
 

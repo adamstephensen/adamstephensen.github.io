@@ -9,7 +9,8 @@ comments: true
 ---
 
 
-<< youtube OMgSfIUtoBM %}
+<!-- << youtube OMgSfIUtoBM %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMgSfIUtoBM" ></iframe>
 
 http://tv.ssw.com/6417/3-minutes-with-asp-net-5-the-cheese-has-moved
 
