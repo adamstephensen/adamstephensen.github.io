@@ -17,7 +17,7 @@ It was such a fun day, we decided to sit down and write a blog post together.
 <h3>Pre-day one</h3>
 We decided to catch a couple of tuk-tuks to the venue.  Adam C somehow managed to send emails on his iPad while cramped in the back.
 
-[caption id="" align="alignnone" width="644"]<a href="./images/img_7954.jpg"><img style="background-image: none; padding-left: 0; padding-right: 0; display: inline; padding-top: 0; border: 0 none; margin: 5px;" title="Setting off on our way…. little did we know that the driver had no idea where he was going" src="./images/img_7954_thumb.jpg" alt="Setting off on our way…. little did we know that the driver had no idea where he was going" width="644" height="430" border="0" /></a> Setting off on our way…. little did we know that the driver had no idea where he was going[/caption]
+[caption id="" align="alignnone" width="644"]<a href="./images/img_7954.jpg"><img style="background-image: none; padding-left: 0; padding-right: 0; display: inline; padding-top: 0; border: 0 none; margin: 5px;" title="Setting off on our way…. little did we know that the driver had no idea where he was going" src="images/img_7954_thumb.jpg" alt="Setting off on our way…. little did we know that the driver had no idea where he was going" width="644" height="430" border="0" /></a> Setting off on our way…. little did we know that the driver had no idea where he was going[/caption]
 
 One of the important things you learn about in Scrum is an Impediment.  Even before day 1 started, we had our first one.
 
