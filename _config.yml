@@ -30,12 +30,11 @@ github_username:  adamstephensen
 theme: minima
 plugins:
   - jekyll-feed #current version
-  - jekyll-youtube
   - jekyll-redirect-from #from old version
   - jekyll-categories #from old version
   - jekyll-paginate #from old version
   - bootstrap #from old version
-  
+  # -[jekyll-youtube]
   #- jekyll-bootstrap-sass
 
 

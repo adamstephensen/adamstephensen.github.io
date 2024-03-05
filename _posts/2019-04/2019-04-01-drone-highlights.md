@@ -32,7 +32,9 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 > Since 2011, farmer Sean Stratman has grown kale, cauliflower, broccoli and squash in Carnation, Washington. Then, a few years ago, he added a new crop to his bounty: knowledge, using drones and the intelligent edge to get near-real-time information about issues like soil moisture and pests. It’s the kind of information that is not only helping him, but could benefit farmers around the world.
 > Source: [](https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/) 
 
-{% youtube KTvdjcU0lf8 %}
+<!-- youtube KTvdjcU0lf8 % -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTvdjcU0lf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Links: 
 [More reading on FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
