@@ -9,24 +9,16 @@ redirect_from:
 
 <div class="apis-masthead">
   <div class="container">
-    <h2>Building awesome teams. Delivering cloud solutions. Growing technical communities.</h2>
-    <!--
-    <p class="lead">
-      Azure App Dev TSP @ Microsoft</p>
-
-    <p class="lead"><a href="/speaking/" class="btn btn-az btn-outline">Check out my presentations &raquo;</a></p>
-    -->
+    <h2>Accelerating Innovation in Enterprise AI.  <br />Speaker & Trainer. </h2>    
   </div>
 </div>
 
-<div class="featurette">
-  <div class="featurette-title">About Me</div>
-  <p class="lead">If I'm not writing code or helping companies deliver software, I'm probably training, presenting or
-    mentoring on new technologies, writing better code and the lessons I've learnt to help companies deliver software.
-  </p>
-  <p class="lead">The topics that really get me going at the moment are: Azure, Angular, Machine Learning / AI /
-    Cognitive Services and choosing the right micro-services strategy.</p>
-  <p class="lead">I believe communication and agility lead to success: 'fail fast', inspect, adapt, have a lot of fun.
-  </p>
 
+<div class="featurette">
+  <p class="lead">I work with teams to help them understand where AI can empower their organisations, and then I bring that vision to life. 
+  </p>
+  <p class="lead">I love adopting emerging technologies early, learning the pitfalls and best practices, and then sharing what I've learned. </p>
+  <p class="lead">If I'm not building AI solutions, you can find me outdoors camping, kayaking, cycling, at the beach, or just looking at the stars.
+  </p>
+  <img src="/assets/images/noosa.jpg" alt="Noosa beach" class="img-responsive">
 </div>
