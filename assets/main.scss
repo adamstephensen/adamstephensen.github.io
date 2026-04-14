@@ -1,0 +1,67 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/* ===== Always-on Dark Theme ===== */
+
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --border-color: #333;
+  --link-color: #64b5f6;
+  --code-bg: #2d2d2d;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:visited {
+  color: #bb86fc;
+}
+
+code, pre {
+  background-color: var(--code-bg);
+  color: #e0e0e0;
+  border-color: var(--border-color);
+}
+
+.site-header {
+  background-color: #0d0d0d;
+  border-bottom-color: var(--border-color);
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+}
+
+.site-title, .site-title:visited {
+  color: #e0e0e0;
+}
+
+.site-footer {
+  background-color: #0d0d0d;
+  border-top-color: var(--border-color);
+  color: var(--text-color);
+}
+
+.footer-col {
+  color: var(--text-color);
+}
+
+.post-content blockquote {
+  border-left-color: var(--link-color);
+  background-color: #222;
+  color: var(--text-color);
+}
+
+.highlight {
+  background-color: var(--code-bg);
+}
