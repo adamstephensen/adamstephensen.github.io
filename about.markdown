@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: "About Me"
 description: A little bit about me.
 permalink: /about/
 redirect_from:
