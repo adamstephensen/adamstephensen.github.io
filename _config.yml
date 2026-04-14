@@ -22,8 +22,7 @@ title: Adam Stephensen's blog
 email: blog@adamstephensen.com
 description: Hi. I'm Adam. I love to enable amazing things in the cloud, paddle kayaks and look at the stars.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: adamstephensen
+url: http://adamstephensen.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  adamstephensen
 
 # Build settings
