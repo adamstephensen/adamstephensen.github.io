@@ -1,5 +1,5 @@
 ---
-title: NDC Melbourne 2025 - AI Lessons Learned: Real world learnings delivering enterprise AI solutions 
+title: NDC Melbourne 2025 - AI Lessons Learned - Real world learnings delivering enterprise AI solutions 
 permalink: /2025/06/03/ndc-melbourne-ai-lessons-learned/
 layout: post
 tags:
