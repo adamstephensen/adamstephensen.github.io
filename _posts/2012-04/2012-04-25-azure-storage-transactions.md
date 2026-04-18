@@ -25,21 +25,21 @@ Having Diagnostics enabled can contribute 25 transactions per minute, this is 36
 
 To Do: Confirm that this is per Web/Worker Role
 
-<a href="./images/image001.png"><img class="alignnone size-medium wp-image-108" title="image001" src="./images/image001.png?w=232" alt="" width="232" height="76" /></a>
+<a href="/assets/images/2012-04/image001.png"><img class="alignnone size-medium wp-image-108" title="image001" src="/assets/images/2012-04/image001.png?w=232" alt="" width="232" height="76" /></a>
 
 <span style="font-size:xx-small;">Figure: Check the properties of your web and worker role configuration files</span>
 
-<a href="./images/azure-disable-diagnostics.jpg"><img class="alignnone size-full wp-image-112" title="azure-disable-diagnostics" src="./images/azure-disable-diagnostics.jpg" alt="" width="575" height="140" /></a>
+<a href="/assets/images/2012-04/azure-disable-diagnostics.jpg"><img class="alignnone size-full wp-image-112" title="azure-disable-diagnostics" src="/assets/images/2012-04/azure-disable-diagnostics.jpg" alt="" width="575" height="140" /></a>
 
 Figure: Disable diagnostics for both roles
 <h3>Disable IntelliTrace and Profiling</h3>
-<a href="./images/azure-publishing-settings.jpg"><img class="alignnone size-full wp-image-113" title="azure-publishing-settings" src="./images/azure-publishing-settings.jpg" alt="" width="600" height="403" /></a>
+<a href="/assets/images/2012-04/azure-publishing-settings.jpg"><img class="alignnone size-full wp-image-113" title="azure-publishing-settings" src="/assets/images/2012-04/azure-publishing-settings.jpg" alt="" width="600" height="403" /></a>
 
 Figure: When publishing, ensure that IntelliTrace and Profiling are both disabled.
 <h3>Robots.txt</h3>
 Search bots crawling your site to index it will lead to a lot of transactions. Especially for web ‘applications’ that do not need to be searchable, use Robot.txt to save transactions.
 
-<a href="./images/image004.png"><img class="alignnone size-medium wp-image-111" title="image004" src="./images/image004.png?w=214" alt="" width="214" height="95" /></a>
+<a href="/assets/images/2012-04/image004.png"><img class="alignnone size-medium wp-image-111" title="image004" src="/assets/images/2012-04/image004.png?w=214" alt="" width="214" height="95" /></a>
 
 Figure: Place robots.txt in the root of your site to control search engine indexing
 <h3>Continuous Deployment</h3>

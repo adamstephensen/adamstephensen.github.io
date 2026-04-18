@@ -23,15 +23,15 @@ The key identifies the resource, and you'll install it soon in the SDK to direct
 
 <img src="https://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/app-insights-start-monitoring-app-health-usage/20150515052611/02-props-asp.png" alt="Click Properties, select the key, and press ctrl+C" />
 <h2>Create the Exception Filter to log all exceptions</h2>
-<a href="./images/2015-05-21_11-32-29.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-32-29" src="./images/2015-05-21_11-32-29.png" alt="2015-05-21_11-32-29" width="395" height="185" border="0" /></a>
+<a href="/assets/images/2015-05/2015-05-21_11-32-29.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-32-29" src="/assets/images/2015-05/2015-05-21_11-32-29.png" alt="2015-05-21_11-32-29" width="395" height="185" border="0" /></a>
 
 Figure: Add the ApplicationInsights.Web NuGet package
 
-<a href="./images/2015-05-21_11-21-27_01.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-21-27_01" src="./images/2015-05-21_11-21-27_01.png" alt="2015-05-21_11-21-27_01" width="538" height="429" border="0" /></a>
+<a href="/assets/images/2015-05/2015-05-21_11-21-27_01.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-21-27_01" src="/assets/images/2015-05/2015-05-21_11-21-27_01.png" alt="2015-05-21_11-21-27_01" width="538" height="429" border="0" /></a>
 
 Figure: Create the Telemetry class to instantiate an instance of the TelemetryClient with your InstrumentationKey & the AiHandleErrorAttribute class that will log exceptions to Application Insights.
 
-<a href="./images/2015-05-21_11-25-18.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-25-18" src="./images/2015-05-21_11-25-18.png" alt="2015-05-21_11-25-18" width="591" height="408" border="0" /></a>
+<a href="/assets/images/2015-05/2015-05-21_11-25-18.png"><img style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border:0;" title="2015-05-21_11-25-18" src="/assets/images/2015-05/2015-05-21_11-25-18.png" alt="2015-05-21_11-25-18" width="591" height="408" border="0" /></a>
 
 Figure: Wire up the ExceptionFilterAttribute in Startup.cs
 

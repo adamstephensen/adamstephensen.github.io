@@ -18,7 +18,7 @@ The materials put together by the Azure DevOps team are fantastic and cover a ve
 
 You can get them here [https://www.azuredevopslabs.com](https://www.azuredevopslabs.com).
 
-![Available DevOps Labs](./images/azure-pipelines-labs.jpg)
+![Available DevOps Labs](/assets/images/2019-03/azure-pipelines-labs.jpg)
 
 ## Demo Scripts (In-Progress)
 

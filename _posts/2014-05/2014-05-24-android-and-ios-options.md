@@ -17,7 +17,7 @@ Here is a very brief overview of the options for creating cross-platform applica
 
 Stay tunes, I’ll be writing a lot more about each of these options.
 <h2>Option 1: Cordova for building web based cross platform applications</h2>
-<a href="./images/image16.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="./images/image16.png" alt="image" width="204" height="244" align="left" border="0" /></a>
+<a href="/assets/images/2014-05/image16.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="/assets/images/2014-05/image16.png" alt="image" width="204" height="244" align="left" border="0" /></a>
 
 Build apps for iOS, Android & Windows Phone using HTML and JavaScript
 
@@ -41,7 +41,7 @@ Further Reading:
 
  
 <h2>Option 2: Xamarin for building native cross platform applications</h2>
-<a href="./images/image17.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="./images/image17.png" alt="image" width="244" height="186" align="left" border="0" /></a>
+<a href="/assets/images/2014-05/image17.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="/assets/images/2014-05/image17.png" alt="image" width="244" height="186" align="left" border="0" /></a>
 
 Build apps for iOS, Android & Windows Phone by writing all your common code in C#, and then building separate native User Interfaces for each platform.
 
@@ -57,7 +57,7 @@ Further Reading:
 
  
 <h2>Option 3: Universal Windows Apps</h2>
-<a href="./images/image18.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="./images/image18.png" alt="image" width="244" height="134" align="left" border="0" /></a>
+<a href="/assets/images/2014-05/image18.png"><img style="background-image:none;float:left;padding-top:0;padding-left:0;margin:0 5px 0 0;display:inline;padding-right:0;border:0;" title="image" src="/assets/images/2014-05/image18.png" alt="image" width="244" height="134" align="left" border="0" /></a>
 
 Build apps that will run on Windows Phone, Windows 8 & XBox.
 

@@ -12,7 +12,7 @@ comments: true
 
 In case you missed <a href="http://adamstephensen.wordpress.com/2011/06/01/professional-scrum-developer-course-new-delhi-day-1/">yesterday’s post</a>, I’m in New Delhi at the moment with <a href="http://www.adamcogan.com">Adam Cogan</a> and <a title="Damian Brady" href="http://damianbrady.com.au" target="_blank">Damian Brady</a> helping out with a Professional Scrum Developer course.
 <h3>Day 2 begins</h3>
-Day 2 started a lot smoother than Day 1 because we now knew the way to the venue.<a href="./images/img_8190.jpg"><img class="alignnone" style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0 none;margin:5px;" title="Adam exercises his negotiation skills and saves us 25 cents" src="./images/img_8190_thumb.jpg" alt="Adam exercises his negotiation skills and saves us 25 cents" width="600" border="0" /></a>
+Day 2 started a lot smoother than Day 1 because we now knew the way to the venue.<a href="/assets/images/2011-06/img_8190.jpg"><img class="alignnone" style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0 none;margin:5px;" title="Adam exercises his negotiation skills and saves us 25 cents" src="/assets/images/2011-06/img_8190_thumb.jpg" alt="Adam exercises his negotiation skills and saves us 25 cents" width="600" border="0" /></a>
 
 <strong><span style="color:#008000;">Bonus 1:</span></strong> Today, we made it to the training venue in only 3 minutes vs. 1.5 hours yesterday. Talk about continuous improvement!
 
@@ -43,7 +43,7 @@ Then it was on to TFS integration with Microsoft Excel and Project 2010, TeamCom
 
 Adam introduced the first sprint of the day by telling everyone that there was a new Product Owner. He talked about all the things this new PO might want, so they would be well prepared when he arrived.
 <h3>A new Product Owner arrives</h3>
-<a href="./images/img_8203.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The new Product Owner (this PO was a bit of a sweetie)" src="./images/img_8203_thumb.jpg" alt="The new Product Owner (this PO was a bit of a sweetie)" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8203.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The new Product Owner (this PO was a bit of a sweetie)" src="/assets/images/2011-06/img_8203_thumb.jpg" alt="The new Product Owner (this PO was a bit of a sweetie)" width="600" border="0" /></a>
 
 This new Product Owner was a bit odd.  He talked about his new wife, the new Tailspin website he purchased, and the Chinese developers he had sacked.  He told them about the bugs some people had told him about, and asked them to:
 <ul>
@@ -54,7 +54,7 @@ This new Product Owner was a bit odd.  He talked about his new wife, the new Ta
 	<li>Check that the code from the Chinese developers compiles</li>
 	<li>Tell him where he stands, and whether those Chinese guys were truthful when they told him it was “99% done”</li>
 </ul>
-<a href="./images/img_8217.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The girls (Shilpa and Pomey) instructing the boys" src="./images/img_8217_thumb.jpg" alt="The girls (Shilpa and Pomey) instructing the boys" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8217.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The girls (Shilpa and Pomey) instructing the boys" src="/assets/images/2011-06/img_8217_thumb.jpg" alt="The girls (Shilpa and Pomey) instructing the boys" width="600" border="0" /></a>
 
 The students had been given so much new information that morning, we were interested to know what they actually “heard”.
 <h3>Review</h3>
@@ -66,7 +66,7 @@ There were a few impediments this time, however.  The teams found that they nee
 
 “Team Scrumsters” actually fired up the new application and showed it working.  They were the only team that got the Product Owner jumping up and down with excitement.
 
-<a href="./images/img_8195.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The new Product Owner getting excited when he saw his new app Tailspin running" src="./images/img_8195_thumb.jpg" alt="The new Product Owner getting excited when he saw his new app Tailspin running" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8195.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="The new Product Owner getting excited when he saw his new app Tailspin running" src="/assets/images/2011-06/img_8195_thumb.jpg" alt="The new Product Owner getting excited when he saw his new app Tailspin running" width="600" border="0" /></a>
 
 Before the Product Owner left, he played a video to introduce the students to some of his “American culture”. He played <a href="http://www.youtube.com/watch?v=pipTwjwrQYQ">a Charlie Sheen video</a> and talked about the importance of “winning”.
 <h3>Retrospective</h3>
@@ -74,7 +74,7 @@ The big lesson that came out of the acceptance criteria was that the teams didn�
 <h3>Lunch</h3>
 Once again, lunch was delicious.  I asked heaps of questions about the selection of traditional Indian foods, the answers being fascinating.  I'm well and truly on track to come home with some new recipes!
 
-<a href="./images/img_8223.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="Selection of traditional Indian dishes for lunch" src="./images/img_8223_thumb.jpg" alt="Selection of traditional Indian dishes for lunch" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8223.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="Selection of traditional Indian dishes for lunch" src="/assets/images/2011-06/img_8223_thumb.jpg" alt="Selection of traditional Indian dishes for lunch" width="600" border="0" /></a>
 
 After lunch, Adam C treated the group to some Australian culture in the form of an <a href="http://www.youtube.com/watch?v=qp-EAG29Qnc">ad for Fosters</a>.  He followed this up with a (remarkably similar) <a href="http://www.youtube.com/watch?v=BRI-A3vakVg">Canadian Molson video</a> and was disappointed when the group preferred the Canadian version!
 <h3>Example meetings</h3>
@@ -86,7 +86,7 @@ Adam C asked Damian and I to stand up in front of the class and start work on a 
 	<li>We started and finished day one, and just as we finished,</li>
 	<li>Adam got us to do a day 2 standup, complete with a burndown update</li>
 </ul>
-<a href="./images/img_0213.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0 none;margin:5px;" title="Damian and I estimating tasks in our Planning meeting" src="./images/img_0213_thumb.jpg" alt="Damian and I estimating tasks in our Planning meeting" width="600" height="291" border="0" /></a>
+<a href="/assets/images/2011-06/img_0213.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0 none;margin:5px;" title="Damian and I estimating tasks in our Planning meeting" src="/assets/images/2011-06/img_0213_thumb.jpg" alt="Damian and I estimating tasks in our Planning meeting" width="600" height="291" border="0" /></a>
 
 <strong><span style="color:#008000;">Bonus 2:</span> </strong>This<strong> </strong>ended up being quite worthwhile.  Some of the students said it was the highlight as they got to see how it was “meant” to be done.
 
@@ -94,9 +94,9 @@ Adam C played the students a <a href="http://www.youtube.com/watch?v=8aYl7N0JPWs
 <h3>Sprint 2</h3>
 Sprint 2 saw the teams get deeper into the solution.  They were asked to enter some more Product Backlog Items and make sure each person raised a bug.
 
-<a href="./images/img_8239.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="Now we're talking! The standups are happening!" src="./images/img_8239_thumb.jpg" alt="Now we're talking! The standups are happening!" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8239.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="Now we're talking! The standups are happening!" src="/assets/images/2011-06/img_8239_thumb.jpg" alt="Now we're talking! The standups are happening!" width="600" border="0" /></a>
 
-<strong><span style="color:#008000;"><a href="./images/img_8247.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="One of the teams estimating tasks using the "fist" estimation method" src="./images/img_8247_thumb.jpg" alt="One of the teams estimating tasks using the "fist" estimation method" width="600" border="0" /></a></span></strong>
+<strong><span style="color:#008000;"><a href="/assets/images/2011-06/img_8247.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="One of the teams estimating tasks using the "fist" estimation method" src="/assets/images/2011-06/img_8247_thumb.jpg" alt="One of the teams estimating tasks using the "fist" estimation method" width="600" border="0" /></a></span></strong>
 
 <strong><span style="color:#008000;">Bonus 3:</span></strong> This sprint, every one of the teams did a standup and one team implemented the “fist” estimation technique.
 
@@ -104,7 +104,7 @@ The Review and Retrospective meetings were are lot more impressive this time.  
 
 To close off the day, Adam C played a <a href="http://www.youtube.com/watch?v=cgGL6SbMfKc">video showing how Emperor penguins work as a team for survival in Antarctica</a>.  He emphasised the importance on the team in the Scrum framework.  If everyone is prepared to give their bit for the team, it will benefit everyone.
 <h3>Retrospective Day 2</h3>
-<a href="./images/img_8273.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="One of the teams kept their sprint in the world's smallest Burndown" src="./images/img_8273_thumb.jpg" alt="One of the teams kept their sprint in the world's smallest Burndown" width="600" border="0" /></a>
+<a href="/assets/images/2011-06/img_8273.jpg"><img style="background-image:none;padding-left:0;padding-right:0;display:inline;padding-top:0;border-width:0;margin:5px;" title="One of the teams kept their sprint in the world's smallest Burndown" src="/assets/images/2011-06/img_8273_thumb.jpg" alt="One of the teams kept their sprint in the world's smallest Burndown" width="600" border="0" /></a>
 
 There was a lot of great feedback from the students on how the day went.  Some of the many highlights the group mentioned were:
 <ul>

@@ -60,7 +60,7 @@ It does this by
 
 InDro Robotics, a drone operating outfit based in Salt Spring Island British Columbia, recently connected with Microsoft to explore how they could better enable their drones for search and rescue efforts.
 
-![Drones aiding search and rescue](./images/InDroRobotics.jpg)
+![Drones aiding search and rescue](/assets/images/2019-04/InDroRobotics.jpg)
 
 Leveraging Custom Vision Cognitive Service and other Azure services, including IoT Hub, InDro Robotics developers can now successfully equip their drones to:
 

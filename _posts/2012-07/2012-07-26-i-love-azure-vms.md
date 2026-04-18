@@ -9,11 +9,11 @@ comments: true
 
 Microsoft has released the ability to easily create a Virtual Machine hosted on Azure
 
-<a href="./images/image005.png"><img class="alignnone size-medium wp-image-150" title="image005" src="./images/image005.png?w=300" alt="" width="300" height="132" /></a>
+<a href="/assets/images/2012-07/image005.png"><img class="alignnone size-medium wp-image-150" title="image005" src="/assets/images/2012-07/image005.png?w=300" alt="" width="300" height="132" /></a>
 
 Figure: I can’t quite believe how easy it is to ‘Quick Create’ a new Virtual machine. It literally takes a few minutes to have a Windows Server running in the cloud.
 
-<a href="./images/image0071.png"><img class="alignnone size-medium wp-image-151" title="image0071" src="./images/image0071.png?w=300" alt="" width="300" height="217" /></a>
+<a href="/assets/images/2012-07/image0071.png"><img class="alignnone size-medium wp-image-151" title="image0071" src="/assets/images/2012-07/image0071.png?w=300" alt="" width="300" height="217" /></a>
 
 Figure: Alternatively you create a Windows or LINUX VM from selection of images in the Gallery. You can also add your own images to the gallery. This process only takes marginally longer than Quick Create, but gives you more options for customization.
 <h3>Situations where I love Azure VMs</h3>
@@ -23,15 +23,15 @@ I have an Azure VM with Visual Studio 2012 and SQL Express 2012 on it.
 
 I keep it at an Extra-Small instance for most of the month ($15/month) and ramp it up to a Large/Extra Large instance when I want to work on it.
 
-<a href="./images/image0041.png"><img class="alignnone size-medium wp-image-147" title="image0041" src="./images/image0041.png?w=300" alt="" width="300" height="142" /></a>
+<a href="/assets/images/2012-07/image0041.png"><img class="alignnone size-medium wp-image-147" title="image0041" src="/assets/images/2012-07/image0041.png?w=300" alt="" width="300" height="142" /></a>
 
 Figure: Changing the size of the VM is amazingly simple. Log onto the portal, choose an option from the drop down and click Save. Wait a few minutes and log back in.
 
-<a href="./images/image006.jpg"><img class="alignnone size-medium wp-image-148" title="image006" src="./images/image006.jpg?w=300" alt="" width="300" height="225" /></a>
+<a href="/assets/images/2012-07/image006.jpg"><img class="alignnone size-medium wp-image-148" title="image006" src="/assets/images/2012-07/image006.jpg?w=300" alt="" width="300" height="225" /></a>
 
 Figure: I love that I can connect to my Dev VM from anywhere…. Including my iPad
 
-<a href="./images/image008.jpg"><img class="alignnone size-medium wp-image-149" title="image008" src="./images/image008.jpg?w=300" alt="" width="300" height="225" /></a>
+<a href="/assets/images/2012-07/image008.jpg"><img class="alignnone size-medium wp-image-149" title="image008" src="/assets/images/2012-07/image008.jpg?w=300" alt="" width="300" height="225" /></a>
 
 Figure: Running Visual Studio 2012 on Azure from the iPad (the Apple Wireless keyboard <em>nearly</em> makes this workable)
 
