@@ -32,9 +32,6 @@ The theme is `minima`, heavily overridden. Everything visual is in `assets/main.
 Google Fonts. Change styling in `assets/main.scss` - not in the theme gem, and not by adding
 new stylesheets.
 
-`assets/styles/dark-theme.css` is left over from the previous design and is no longer
-referenced by anything. Don't add to it.
-
 ## Local preview
 
 ```bash
@@ -72,5 +69,6 @@ manager. The `gem update --system` warning bundler prints is noise; ignore it.
 
 - Commit and push only when asked. Pushing to `main` is a publish.
 - Prose is Australian English.
-- **No em dashes anywhere** (U+2014, the long dash) - in posts, docs or commit
-  messages. They read as AI-generated. Use ` - `, a comma, or two sentences.
+- **No em or en dashes anywhere** (U+2014 and U+2013, the long dashes) - in posts, docs
+  or commit messages. Em dashes especially read as AI-generated. Use ` - `, a comma, or
+  two sentences. Check with `grep -rn $'\u2014\|\u2013' _posts/`.

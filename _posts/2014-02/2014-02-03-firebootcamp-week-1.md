@@ -1,5 +1,5 @@
 ---
-title: FireBootCamp – Week 1
+title: FireBootCamp - Week 1
 permalink: 2014/02/03/week-1-at-firebootcamp-video/
 layout: post
 tags:

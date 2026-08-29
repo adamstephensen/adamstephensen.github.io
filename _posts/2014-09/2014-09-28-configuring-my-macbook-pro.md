@@ -1,5 +1,5 @@
 ---
-title: Configuring My MacBook Pro – Visual Studio VM
+title: Configuring My MacBook Pro - Visual Studio VM
 permalink: 2014/09/28/configuring-my-macbook-pro-visual-studio-vm/
 layout: post
 tags:

@@ -1,5 +1,5 @@
 ---
-title: FireBootCamp – Gala Day Highlights
+title: FireBootCamp - Gala Day Highlights
 permalink: 2014/03/21/firebootcamp-gala-day-highlights/
 layout: post
 tags:

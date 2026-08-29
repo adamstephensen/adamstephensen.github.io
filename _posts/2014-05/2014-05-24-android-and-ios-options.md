@@ -1,5 +1,5 @@
 ---
-title: Opinion - IOS & Android Development options in Visual Studio – just what Windows Phone needs
+title: Opinion - IOS & Android Development options in Visual Studio - just what Windows Phone needs
 permalink: 2014/05/24/opinion-ios-android-development-options-in-visual-studio-just-what-windows-phone-needs/
 layout: post
 tags:
@@ -51,7 +51,7 @@ Watch Out: You need to build a separate UI for each platform
 
 Further Reading:
 
-<a title="http://stuff.seans.com/2014/05/15/teched-na-2014-native-mobile-application-development-using-xamarin/" href="http://stuff.seans.com/2014/05/15/teched-na-2014-native-mobile-application-development-using-xamarin/" target="_blank">TechEd NA 2014 – Native Mobile Application Development using Xamarin</a>
+<a title="http://stuff.seans.com/2014/05/15/teched-na-2014-native-mobile-application-development-using-xamarin/" href="http://stuff.seans.com/2014/05/15/teched-na-2014-native-mobile-application-development-using-xamarin/" target="_blank">TechEd NA 2014 - Native Mobile Application Development using Xamarin</a>
 
 <a href="http://www.zdnet.com/microsoft-and-xamarin-tighten-mobile-app-development-ties-7000023143/" target="_blank">Microsoft and Xamarin tighten mobile app-development ties</a>
 

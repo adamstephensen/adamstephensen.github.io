@@ -1,5 +1,5 @@
 ---
-title: Writing Mobile Sites – Lessons learned and top tips for web developers
+title: Writing Mobile Sites - Lessons learned and top tips for web developers
 permalink: 2013/10/22/mobile-sites-dino-esposito/
 layout: post
 tags:

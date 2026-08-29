@@ -100,9 +100,9 @@ Familiarity with common patterns (the good and the bad) is essential to any seni
 <h4>Clean Code & SOLID Principles</h4>
 If software were disposable, I wouldn’t be writing this post.
 
-If I could write software today, and then walk away and never have to look at it again I may not care about the day next year when I have to come back and make sense of it – but I do.
+If I could write software today, and then walk away and never have to look at it again I may not care about the day next year when I have to come back and make sense of it - but I do.
 
-Because I have to maintain my code – I should very much care about making it easy to maintain. This is where the idea of ‘Clean Code’ and the SOLID Principles come in.
+Because I have to maintain my code - I should very much care about making it easy to maintain. This is where the idea of ‘Clean Code’ and the SOLID Principles come in.
 
 Essential reading: <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank">Clean Code by Robert Martin</a>
 

@@ -1,5 +1,5 @@
 ---
-title: Git for Visual Studio Developers–Get your .gitignore right and save yourself needless merges
+title: Git for Visual Studio Developers - Get your .gitignore right and save yourself needless merges
 permalink: 2014/05/13/update-your-gitignore/
 layout: post
 tags:

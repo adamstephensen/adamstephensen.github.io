@@ -95,7 +95,7 @@ Enterprise Template Bots require the following dependencies for end to end opera
 
 Because the workshop covers a lot of ground, it is best if before the workshop a developer on the project follows the Create, Customise and Deploy steps for the bot template. 
 
-The instructions are very straight forward and clear. Once this is done – in the workshop we can spend time explaining the code and best practices as opposed to going through the exact steps in the doco.
+The instructions are very straight forward and clear. Once this is done - in the workshop we can spend time explaining the code and best practices as opposed to going through the exact steps in the doco.
 
 -	Create the project https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-create-project?view=azure-bot-service-4.0
 -	Customer the template https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-customize?view=azure-bot-service-4.0 

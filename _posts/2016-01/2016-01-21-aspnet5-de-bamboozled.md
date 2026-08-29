@@ -1,5 +1,5 @@
 ---
-title: ASP.NET 5 De-bamboozled – Lessons I wish some-one else had learned
+title: ASP.NET 5 De-bamboozled - Lessons I wish some-one else had learned
 permalink: 2016/01/21/asp-net-5-de-bamboozled-lessons-i-wish-some-one-else-had-learned/
 layout: post
 tags:

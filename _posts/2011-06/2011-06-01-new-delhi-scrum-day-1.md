@@ -1,5 +1,5 @@
 ---
-title: Professional Scrum Developer Course – New Delhi Day 1
+title: Professional Scrum Developer Course - New Delhi Day 1
 permalink: 2011/06/01/professional-scrum-developer-course-new-delhi-day-1/
 layout: post
 tags:
@@ -24,7 +24,7 @@ One of the important things you learn about in Scrum is an Impediment.  Even be
 <strong><span style="color: #ff0000;">Impediment 1: </span></strong>The distance from our hotel to the training venue was about 2km.  The 1.5 hour journey (yes, one and a half hours) to this venue on the first day included three lost taxis (two independently finding their way to the same wrong address) and several near-death experiences.
 Tip: Don’t think about complaining to your tuk-tuk driver or else you will find him try to make you happy by driving the wrong way down a busy main road.
 
-[caption id="" align="alignnone" width="644"]<a href="/assets/images/2011-06/img_8009.jpg"><img class=" " style="background-image: none; padding-left: 0; padding-right: 0; display: inline; padding-top: 0; border: 0 none; margin: 5px;" title="Our tuk-tuk driver saving time – you have no idea how we felt." src="/assets/images/2011-06/img_8009_thumb.jpg" alt="Our tuk-tuk driver saving time – you have no idea how we felt." width="644" height="430" border="0" /></a> Our tuk-tuk driver saving time – you have no idea how we felt.[/caption]
+[caption id="" align="alignnone" width="644"]<a href="/assets/images/2011-06/img_8009.jpg"><img class=" " style="background-image: none; padding-left: 0; padding-right: 0; display: inline; padding-top: 0; border: 0 none; margin: 5px;" title="Our tuk-tuk driver saving time - you have no idea how we felt." src="/assets/images/2011-06/img_8009_thumb.jpg" alt="Our tuk-tuk driver saving time - you have no idea how we felt." width="644" height="430" border="0" /></a> Our tuk-tuk driver saving time - you have no idea how we felt.[/caption]
 <h3>Getting Started with “Scrumdementals”</h3>
 <strong><span style="color: #ff0000;">Impediment 2:</span></strong> Day 1 officially started with Adam noticing that only one of the 24 students had read the Scrum guide. To bring everyone up to speed, he was able to give a succinct rundown of the Scrum user guide with the help of a few SSW rules (<a href="http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/DoYouKnowThatWorkingInATeamIsBetterThanOnYourOwn.aspx">The importance of a team</a>, <a href="http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/Scrumguide.aspx">Reading the Scrum Guide</a>, and <a href="http://rules.ssw.com.au/Management/RulesToBetterScrumUsingTFS/Pages/PhysicalTaskboard.aspx">Physical Task Boards</a>) and the awesome <a href="http://www.youtube.com/watch?v=Q5k7a9YEoUI">“Scrum Master in Under 10 Minutes”</a> video by Hameed Shojaee.
 
@@ -76,7 +76,7 @@ Retrospective
 
 The day ended with a retrospective where each student talked about what they liked and disliked about the day.
 
-The top two highlights of the day – repeated multiple times - were:
+The top two highlights of the day - repeated multiple times - were:
 <ol>
 	<li>Writing User Stories and learning about why the wording was important</li>
 	<li>Learning about effective acceptance criteria</li>

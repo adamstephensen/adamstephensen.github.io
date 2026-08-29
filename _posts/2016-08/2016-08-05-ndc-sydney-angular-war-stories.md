@@ -1,5 +1,5 @@
 ---
-title: NDC Sydney 2016 – Angular 2 War Stories
+title: NDC Sydney 2016 - Angular 2 War Stories
 permalink: 2016/08/05/ndc-sydney-2016-angular-2-war-stories/
 layout: post
 tags:

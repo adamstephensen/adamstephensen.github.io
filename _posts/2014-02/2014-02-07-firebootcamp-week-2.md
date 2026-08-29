@@ -1,5 +1,5 @@
 ---
-title: SSW TV - FireBootCamp – Week 2 in review
+title: SSW TV - FireBootCamp - Week 2 in review
 permalink: 2014/02/07/firebootcamp-week-2/
 layout: post
 tags:

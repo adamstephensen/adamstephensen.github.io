@@ -1,5 +1,5 @@
 ---
-title: Great New ReSharper Feature – Dependency Graph
+title: Great New ReSharper Feature - Dependency Graph
 permalink: 2013/08/13/great-new-resharper-feature-dependency-graph/
 layout: post
 tags:

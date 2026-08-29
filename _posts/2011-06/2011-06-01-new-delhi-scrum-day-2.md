@@ -1,5 +1,5 @@
 ---
-title: Professional Scrum Developer Course – New Delhi Day 2
+title: Professional Scrum Developer Course - New Delhi Day 2
 permalink: 2011/06/01/professional-scrum-developer-course-new-delhi-day-2/
 layout: post
 tags:
@@ -111,7 +111,7 @@ There was a lot of great feedback from the students on how the day went.  Some 
 	<li>Learning to focus on what the Product Owner wants, not the process</li>
 	<li>Seeing the tool (TFS) was much different to just knowing the theory</li>
 	<li>The demo of the “Aussie” planning and standup meetings</li>
-	<li>The Karate Kid story – the group now knows this is something to follow day in and day out</li>
+	<li>The Karate Kid story - the group now knows this is something to follow day in and day out</li>
 	<li>Learning what Scrum terms map to what TFS work items</li>
 	<li>The Excel and TeamCompanion demos</li>
 	<li>Working as a team</li>

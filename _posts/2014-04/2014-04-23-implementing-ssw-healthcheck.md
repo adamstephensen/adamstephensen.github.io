@@ -1,5 +1,5 @@
 ---
-title: Implementing SSW.HealthCheck – Step by Step
+title: Implementing SSW.HealthCheck - Step by Step
 permalink: 2014/04/23/implementing-ssw-healthcheck-step-by-step/
 layout: post
 tags:

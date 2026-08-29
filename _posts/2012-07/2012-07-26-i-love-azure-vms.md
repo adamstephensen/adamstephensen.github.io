@@ -51,7 +51,7 @@ The alternatives we considered were
 
 The issues that we had with using Azure VMs to run training machines were
 
-- Medium VMs were a bit slow – next time we should use Large
+- Medium VMs were a bit slow - next time we should use Large
 
 - RPD is not heavy, but we did have issues in some offices with the number of people connected to the available wireless routers
 

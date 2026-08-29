@@ -1,5 +1,5 @@
 ---
-title: The Secret Lab – Behind SSW’s ‘FireBootCamp’
+title: The Secret Lab - Behind SSW’s ‘FireBootCamp’
 permalink: 2014/06/11/firebootcamp-behind-the-scenes/
 layout: post
 tags:
