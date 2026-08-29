@@ -56,3 +56,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Agent/tooling files - never publish these to the site
+# NOTE: setting this key replaces Jekyll's built-in default list, so the
+# Gemfile/vendor entries below must stay listed explicitly.
+exclude:
+  - CLAUDE.md
+  - .claude/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
