@@ -11,7 +11,7 @@ Follow `.claude/skills/blog-post/SKILL.md` exactly. Steps:
 1. Get today's date with `date +%Y-%m-%d`. Do not guess it.
 2. Derive a lowercase dash-separated slug from the title.
 3. Create `_posts/YYYY-MM/` if needed, then write
-   `_posts/YYYY-MM/_YYYY-MM-DD-Title-With-Dashes.md` — note the **leading underscore**, so it
+   `_posts/YYYY-MM/_YYYY-MM-DD-Title-With-Dashes.md` - note the **leading underscore**, so it
    stays unpublished until it's ready.
 4. Front matter: quoted `title`, `permalink: /YYYY/MM/DD/slug/`, `layout: post`, and `tags`
    picked from the tags already in use (run the tag frequency command in the skill first).

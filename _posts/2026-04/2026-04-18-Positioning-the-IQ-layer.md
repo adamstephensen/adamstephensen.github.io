@@ -9,9 +9,9 @@ tags:
 
 ## Microsoft AI Ecosystem: Rethinking the Diagram After Ignite
 
-After Build 2025—and the flood of announcements across Copilot, Copilot Studio, Foundry, and Fabric—I found myself stepping back and trying to make sense of what was actually happening.
+After Build 2025 - and the flood of announcements across Copilot, Copilot Studio, Foundry, and Fabric - I found myself stepping back and trying to make sense of what was actually happening.
 
-What struck me was that we were moving beyond the days of picking a single tool and trying to use it for everything. Instead, we were starting to see a more mature ecosystem emerge—one where you could choose the right tool for the job, and more importantly, start connecting them together.
+What struck me was that we were moving beyond the days of picking a single tool and trying to use it for everything. Instead, we were starting to see a more mature ecosystem emerge - one where you could choose the right tool for the job, and more importantly, start connecting them together.
 
 With emerging protocols like MCP and A2A, it felt like these previously separate parts of the Microsoft AI ecosystem were beginning to integrate into something more cohesive.
 
@@ -50,9 +50,9 @@ Microsoft is formalising something many of us have been feeling for a while:
 
 A set of **cross-cutting intelligence capabilities** that span:
 
-- **Human context** (Work IQ) — people, meetings, emails, conversations  
-- **Data context** (Fabric IQ) — structured, semantic, and real-time enterprise data  
-- **Execution intelligence** (Foundry IQ) — models, tools, memory, and orchestration  
+- **Human context** (Work IQ) - people, meetings, emails, conversations  
+- **Data context** (Fabric IQ) - structured, semantic, and real-time enterprise data  
+- **Execution intelligence** (Foundry IQ) - models, tools, memory, and orchestration  
 
 ---
 
@@ -64,7 +64,7 @@ The question I’ve been wrestling with is this:
 
 Is it:
 
-### Option 1 — A layer in the stack?
+### Option 1 - A layer in the stack?
 
 Something that sits between data and agents?
 
@@ -80,7 +80,7 @@ It makes intelligence look like just another capability in the stack.
 
 ---
 
-### Option 2 — A cross-cutting layer over the entire Microsoft Cloud?
+### Option 2 - A cross-cutting layer over the entire Microsoft Cloud?
 
 Something that *wraps* the ecosystem?
 ![The Microsoft Enterprise Ecosystem - Ignite 2025](/assets/images/2026-04/MS-EI-Ecosystem.png)

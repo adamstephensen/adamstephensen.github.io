@@ -43,7 +43,7 @@ Links:
 
 Emerging infectious diseases such as Zika, Ebola, Chikungunya and MERS are dangerous and unpredictable. Public health organizations need data as early as possible to predict disease spread and plan responses. Yet early data is very difficult to obtain, because it must be proactively collected from potential disease sources in the environment. Researchers estimate between 60 and 75% of emerging infectious diseases originate from animals, which are very difficult to monitor.
 
-Project Premonition aims to detect pathogens before they cause outbreaks — by turning mosquitoes into devices that collect data from animals in the environment. 
+Project Premonition aims to detect pathogens before they cause outbreaks - by turning mosquitoes into devices that collect data from animals in the environment. 
 
 It does this by
 - Finding mosquito hotspots by drone
